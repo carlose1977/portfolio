@@ -37,8 +37,8 @@ Dedicated Full Stack Data Scientist with over 12 years of experience in data sci
 
 ## PROFESSIONAL EXPERIENCE
 
-### VITESCO TECHNOLOGIES / CONTINENTAL / MOTOROLA
-**Full Stack Data Scientist** | Seguin, TX | July 2001 - Present
+### SCHAEFFLER / VITESCO TECHNOLOGIES / CONTINENTAL / MOTOROLA
+**Full Stack Data Scientist & Automation Expert** | Seguin, TX | July 2001 - Present
 
 *Company Evolution:*
 - Schaeffler: October 2024 - Present
@@ -99,8 +99,8 @@ Dedicated Full Stack Data Scientist with over 12 years of experience in data sci
 - **Computer Assembly and Troubleshooting** (High School)
 
 ## LANGUAGES
-- **English:** Native/Fluent
-- **Spanish:** Native/Fluent
+- **English:** Fluent
+- **Spanish:** Fluent
 
 ## REFERENCES
 Available upon request
